@@ -14,8 +14,7 @@
     "identity_class": "individual",
     "contact_information": "I'll find you",
     "labels": [
-        "awesome 😎",
-        "🧯",
+        "😎", "🔥", "🧯",
     ]
 }
 ```
