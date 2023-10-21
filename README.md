@@ -8,8 +8,7 @@
     "name": "Max Watermolen 🍉",
     "description": "Yes 👉",
     "roles": [
-        "id10t ✅",
-        "Pylot 🧑‍✈️"
+        "id10t ✅", "Pylot 🧑‍✈️"
     ],
     "identity_class": "individual",
     "contact_information": "I'll find you",
